@@ -218,6 +218,8 @@
         });
     };
 
+    console.log("docfooter loaded")
+
     // 注册插件到 Docsify
     window.$docsify = window.$docsify || {};
     window.$docsify.plugins =
